@@ -50,6 +50,8 @@
 
 
 ### Results
+![image](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/assets/115579916/2d32607c-7eba-42a3-9a21-7976c3b5d6c9)
+
 
 ![24](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/assets/115579916/96af7cda-1e05-43cf-8192-50b26849d74b)
 
