@@ -51,8 +51,10 @@
 
 ### Results
 
-![24](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/assets/144428051/08196a6f-6dfa-475a-84b6-dda0b6b34b57)
-![168](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/assets/144428051/302fa27a-c9ca-4c4f-8c23-0e7ce41de6a0)
+![24](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/assets/115579916/96af7cda-1e05-43cf-8192-50b26849d74b)
+
+![168](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/assets/115579916/c9897c5b-71e8-4f1e-ab84-9ee462feee3e)
+
 
 
 ### 실험보고서
